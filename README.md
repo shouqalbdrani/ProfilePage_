@@ -19,7 +19,9 @@ Final Row use for button Follow me and for aappear followers counter
 
 Program instructure
 1- Naviagate to the file
-app/src/main/java/com/example/profileusingcomposable/MainActivity.kt 
+app/src/main/java/com/example/profileusingcomposable/MainActivity.kt
+![Screenshot 2025-03-06 153328](https://github.com/user-attachments/assets/07002ce7-3c26-44ce-9314-617798479fd8)
+
 2- Run the application using Emulator 
 
 
