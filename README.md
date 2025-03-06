@@ -21,6 +21,8 @@ Program instructure
 1- Naviagate to the file
 app/src/main/java/com/example/profileusingcomposable/MainActivity.kt
 2- Run the application using Emulator 
+
+
 ![Screenshot 2025-03-06 153328](https://github.com/user-attachments/assets/07002ce7-3c26-44ce-9314-617798479fd8)
 
 ![Screenshot 2025-03-06 155728](https://github.com/user-attachments/assets/e808b301-f4e0-4d11-8ffb-48198ff6cc03)
