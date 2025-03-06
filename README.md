@@ -13,5 +13,5 @@ I use another column for name and bio so it can be under each other
 Finally use Row for button Follow me and for aappear followers cunter 
 
 Program instructure
-go to the file and run it 
+go to the file app/src/main/java/com/example/profileusingcomposable/MainActivity.kt and run it 
 
