@@ -13,7 +13,7 @@ I use Column and make alignment starat from left by use Start, inside the column
 
 I use another column for name and bio so it can be under each other 
 
-Stored the picture with profile_image inside build/
+Stored the picture with profile_image inside app/src/main/res/drawable/profile_image.png and use it in Image 
 
 Final Row use for button Follow me and for aappear followers counter 
 
